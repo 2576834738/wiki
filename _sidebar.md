@@ -1,1 +1,0 @@
-* [基本信息](resume/resume.md)
